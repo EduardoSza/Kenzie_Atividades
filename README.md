@@ -5,12 +5,11 @@ Estrutura do Repositório
 O repositório segue a seguinte estrutura:
 
 Kenzie/
-M1/         # Módulo 1 - Fundamentos de Front-End
-M2/         # Módulo 2 - Avançado em Front-End e Design
-M3/         # Módulo 3 - Introdução ao Back-End
-M4/         # Módulo 4 - Back-End Avançado
-M5/         # Módulo 5 - Desenvolvimento Full Stack
-
+├── M1/         # Módulo 1 - Fundamentos de Front-End
+├── M2/         # Módulo 2 - Avançado em Front-End e Design
+├── M3/         # Módulo 3 - Introdução ao Back-End
+├── M4/         # Módulo 4 - Back-End Avançado
+└── M5/         # Módulo 5 - Desenvolvimento Full Stack
 Dentro de cada módulo, estão organizados os diretórios das atividades realizadas, cada um contendo o código-fonte e os arquivos necessários.
 
 Objetivo
