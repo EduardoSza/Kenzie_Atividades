@@ -1,5 +1,6 @@
 ﻿# Kenzie_Atividades
-Este repositório contém todas as atividades desenvolvidas durante o curso na Kenzie Academy Brasil. Ele foi criado para organizar e apresentar o progresso no aprendizado de programação, desde os fundamentos do front-end até o desenvolvimento de aplicações full-stack.
+Este repositório contém todas as atividades desenvolvidas durante o curso na Kenzie Academy Brasil. 
+Ele foi criado para organizar e apresentar o progresso no aprendizado de programação, desde os fundamentos do front-end até o desenvolvimento de aplicações full-stack.
 
 Estrutura do Repositório
 O repositório segue a seguinte estrutura:
