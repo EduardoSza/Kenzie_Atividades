@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+body{
+    font-family: "Roboto", sans-serif;
+}
+
+.header{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4);
+    padding: 3vh 8vw;
+}
+
+.header-logo{
+    flex-grow: 1;
+    color: #2f80ed;
+    font-size: 2em;
+    font-weight: 600;
+}
+
+.header-nav{
+    height: 100%;
+    display: flex;
+    justify-content: flex-end;
+    gap: 4vw;
+}
+
+.header-nav-link{
+    text-decoration: none;
+    padding-bottom: 4px;
+     border-bottom: 2px solid transparent;
+    color: black;
+}
+
+.header-nav-link:hover {
+  /* define a cor do texto do link 'header-nav-link' quando o mouse estiver sobre ele. */
+  color: #6ba2e9;
+  /* adiciona uma borda inferior de 2 pixels sólida e da cor #6ba2e9 ao link 'header-nav-link' quando o mouse estiver sobre ele. */
+  border-bottom: 2px solid #6ba2e9;
+}
+
+.header-nav-link:focus {
+  /* define a cor do texto do link 'header-nav-link' quando ele estiver em foco. */
+  color: #2f80ed;
+  /* adiciona uma borda inferior de 2 pixels sólida e da cor #2f80ed ao link 'header-nav-link' quando ele estiver em foco. */
+  border-bottom: 2px solid #2f80ed;
+}
